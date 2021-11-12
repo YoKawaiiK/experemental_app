@@ -1,0 +1,29 @@
+{
+  "appTitle": "Эксперементальное приложение",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+
+  "navigationHome": "Домашняя",
+  "@navigationHome": {
+    "description": "Item Home"
+  },
+  "navigationProfile": "Профиль",
+  "@navigationProfile": {
+    "description": "Item Profile user"
+  },
+  "navigationSettings": "Настройки",
+  "@navigationSettings": {
+    "description": "Settings"
+  },
+
+  "splashViewDescription": "Добро пожаловать, друг",
+  "@splashViewDescription": {
+    "description": "Welcome, my friend"
+  },
+  
+  "primaryViewText": "Привет ",
+  "@primaryViewText": {
+    "description": "Text"
+  }
+}

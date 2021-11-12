@@ -1,0 +1,31 @@
+{
+  "appTitle": "experemental_app",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "navigationHome": "Home",
+  "@navigationHome": {
+    "description": "Item Home"
+  },
+  "navigationProfile": "Profile",
+  "@navigationProfile": {
+    "description": "Item Profile user"
+  },
+
+  "navigationSettings": "Settings",
+  "@navigationSettings": {
+    "description": "Settings"
+  },
+  
+  "splashViewDescription": "Welcome, my friend",
+  "@splashViewDescription": {
+    "description": "Welcome, my friend"
+  },
+
+
+
+  "primaryViewText": "Hello ",
+  "@primaryViewText": {
+    "description": "Text"
+  }
+}
